@@ -1,6 +1,6 @@
 # Public health data analysis
 
-## Project Oview 
+## EDA Oview 
 
 The aim of this analysis is to draw some insight meaningful to the dataset by Exploratory Data Analysis (EDA) before actual analysis.
 
@@ -21,11 +21,11 @@ The dataset used for this analysis  was obtain online in form of csv format, con
 
 * Cleaning data:Converting character variable to factor variables
 
-## Exploratory Data Analysis for Categorical variables
+## Exploratory Data Analysis 
 
 EDA for categorical variables was presented in form of tables and bar charts
 
-### Gender
+
 
 
 
